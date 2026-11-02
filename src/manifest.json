@@ -1,0 +1,9 @@
+{
+  "manifest_version": 3,
+  "name": "prod-activity",
+  "version": "0.1.0",
+  "description": "Earn play time on productive tabs, lose it on unproductive ones, and get locked out by a practice problem at zero.",
+  "background": {
+    "service_worker": "background.js"
+  }
+}

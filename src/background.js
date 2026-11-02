@@ -1,0 +1,1 @@
+console.log("prod activity worker service started!");
